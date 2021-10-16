@@ -1,0 +1,192 @@
+body {
+  background-image: url(./bb.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.container {
+  border: 2px solid whitesmoke;
+  width: 28%;
+  padding: 2px;
+  position: absolute;
+  top: 70%;
+  left: 7%;
+  margin: 2px;
+}
+.acc {
+  text-align: right;
+  opacity: 0.5;
+}
+.log {
+  text-align: right;
+  display: inline-block;
+  position: absolute;
+  right: 148px;
+  text-emphasis-color: white;
+  top: -1%;
+  color: whitesmoke;
+}
+#find {
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 33%;
+  /* bottom: 40%; */
+  size: 50px;
+}
+.icon {
+  text-align: center;
+  position: absolute;
+  right: 50%;
+  top: 15%;
+  bottom: 60%;
+  color: white;
+  font-size: 50px;
+  color: white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+.location {
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 33%;
+  size: 60px;
+  border: 2px solid white;
+  padding: 3px;
+}
+.srchrest {
+  position: absolute;
+  top: 40%;
+  left: 45.6%;
+  border: 2px solid white;
+  padding: 3px;
+}
+.quick {
+  color: #002D62;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: absolute;
+  top: 55%;
+  left: 8%;
+}
+.meal {
+  color: black;
+  position: absolute;
+  top: 59%;
+  left: 8%;
+}
+.bf {
+  position: absolute;
+  bottom: 39%;
+  left: 25%;
+  top: 72%;
+  color: #002D62;
+}
+.bf1 {
+  position: absolute;
+  bottom: 39%;
+  left: 25%;
+  top: 76%;
+}
+.container2 {
+  border: 2px solid whitesmoke;
+  width: 28%;
+  padding: 2px;
+  position: absolute;
+  margin: 2px;
+  top: 70%;
+  left: 36%;
+}
+#lunch {
+    position: absolute;
+    color: #002D62;
+    top: 72%;
+    left: 53%;
+}
+#day {
+    position: absolute;
+    top: 76%;
+    left: 53%;
+}
+.container3 {
+  border: 2px solid whitesmoke;
+  width: 28%;
+  padding: 2px;
+  position: absolute;
+  margin: 2px;
+  left: 65%;
+  top: 70%;
+}
+.snacks {
+  position: absolute;
+  color: #002D62;
+  top: 72%;
+  left: 82%;
+}
+.snks {
+  position: absolute;
+  top: 76%;
+  left: 82%;
+}
+.container4 {
+  border: 2px solid whitesmoke;
+  width: 28%;
+  padding: 2px;
+  margin: 2px;
+position: absolute;
+  top: 95%;
+  left: 7%;
+}
+.dinner {
+  color: #002D62;
+  position: absolute;
+  top: 97%;
+  left: 24%;
+}
+.diner {
+  position: absolute;
+  top: 101%;
+  left: 24%;
+}
+.container5 {
+border: 2px solid whitesmoke;
+width: 28%;
+padding: 2px;
+position: absolute;
+top: 95%;
+left: 36%;
+}
+.Drinks {
+color: #002D62;
+position: absolute;
+top: 97%;
+left: 53%;
+}
+
+#drnks {
+position: absolute;
+top: 101%;
+left: 53%;
+}
+
+.container6 {
+border: 2px solid whitesmoke;
+width: 28%;
+padding: 2px;
+position: absolute;
+left: 65%;
+top: 95%;
+}
+.nightlife {
+  color: #002D62;
+  position: absolute;
+  left: 82%;
+  top: 97%;
+}
+.ngtlife {
+  position: absolute;
+  top: 101%;
+  left: 82%;
+}
